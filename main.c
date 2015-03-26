@@ -17,8 +17,8 @@
     * BRIGITA MK.II *
     *****************
 
-  © 2015 Ian Karlsson (superctr)
-  License: GPL
+  Â© 2015 Ian Karlsson (superctr)
+  License: MIT
 
  Usage:
    Groups only
